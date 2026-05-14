@@ -1,0 +1,54 @@
+{
+  "project_info": {
+    "project_number": "476466769685",
+    "project_id": "balkhash-taste-a5fb9",
+    "storage_bucket": "balkhash-taste-a5fb9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:476466769685:android:e588915b345a1461ba431c",
+        "android_client_info": {
+          "package_name": "com.example.balkhash_taste"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "476466769685-m5inhdhulvmtjfmj0l8ojq2ciua1ojgv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.balkhash_taste",
+            "certificate_hash": "de797a470cb6a6eacc64dd09cb90d981f34fd3bd"
+          }
+        },
+        {
+          "client_id": "476466769685-58ucd4f3d2b82lvmcc689aqvcu4vj0ha.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAgQbjzCAbBM72zn0Sk4QaQjAj5Q3KHSxU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "476466769685-58ucd4f3d2b82lvmcc689aqvcu4vj0ha.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "476466769685-08m5j4fqd1tk014gvlgfnoi2mpta8acp.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.example.balkhashTaste"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
